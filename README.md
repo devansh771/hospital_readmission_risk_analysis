@@ -1,6 +1,6 @@
 
 # <p align="center">Hospital Readmission Risk Analysis</p>
-# <p align="center">![Pic](https://cdn-icons-png.flaticon.com/512/1802/1802511.png)</p>
+# <p align="center">![Hospital Dashboard](hospital-dashboard.jpg)</p>
 
 ## Business Problem
 Hospitals face challenges in identifying patients who may be readmitted within 30 days of discharge. This project analyzes historical data from 130 U.S. hospitals to explore readmission patterns across diagnosis categories, hospital length of stay, A1C results, prior utilization, medication use, and discharge destinations.
